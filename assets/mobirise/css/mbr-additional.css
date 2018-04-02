@@ -1927,7 +1927,7 @@ body {
   height: 100%;
   padding: 30px 30px;
   color: #ffffff;
-  background-color: #232323;
+  background-color: #ffffff;
   z-index: 1;
   margin: 0;
   text-align: center;
@@ -1968,7 +1968,13 @@ body {
   backface-visibility: visible;
 }
 .cid-qNTfcQOFRT .mbr-section-title B {
-  color: #ffffff;
+  color: #efefef;
+}
+.cid-qNTfcQOFRT P {
+  color: #232323;
+}
+.cid-qNTfcQOFRT H4 {
+  color: #232323;
 }
 .cid-qNSpHPiKcm {
   padding-top: 45px;
